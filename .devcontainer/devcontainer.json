@@ -2,6 +2,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
+				"golang.Go",
 				"ms-azuretools.vscode-containers"
 			]
 		}
